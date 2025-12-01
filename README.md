@@ -20,6 +20,7 @@ Currently building **Snapsell** while exploring Vue.js and Laravel. I believe in
 **Frameworks & Libraries**
 - Node.js
 - Vue.js
+- React.js
 - Bootstrap
 - Vuetify
 
